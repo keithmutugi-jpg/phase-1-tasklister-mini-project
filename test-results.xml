@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.032" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-04-16T12:35:47" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Handling form submission" timestamp="2026-04-16T12:35:47" tests="1" file="/home/keith-mutugi/phase-1-tasklister-mini-project/test/indexTest.js" time="0.027" failures="0">
+    <testcase name="Handling form submission should add an event to the form and add input to webpage" time="0.017" classname="should add an event to the form and add input to webpage">
+    </testcase>
+  </testsuite>
+</testsuites>
